@@ -1,0 +1,35 @@
+.banner{
+    background-color: pink;
+    display: flex;
+    align-items: center;
+  
+    
+        img{
+            width: 50%;
+        }
+    .Text{
+        display: flex;
+       
+        align-items: center;
+    
+       h1{
+        font-size: 5rem;
+       }
+       .btn{
+        background-color: white;
+        border: none;
+        width: 10rem;
+        height: 3rem;
+        border-radius: 20px;
+        
+       }
+    }
+}
+.text4{
+    text-align: center;
+    margin: 4rem;
+    
+}
+.card{
+    margin: 3rem;
+}
